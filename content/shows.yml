@@ -1,15 +1,15 @@
 - name: Traeger's Bar, 8-11pm
-  date: "2019-08-31"
+  date: 2019-08-31
   location: Traegers, 5170 College Blvd, Farmington, NM 87402
   # info_url and map_url are optional
   info_url: https://www.traegersbar.com/upcomingevents
 #  map_url: https://www.google.com/maps/
   
 - name: Four Corners Motorcycle Rally, 11am-1pm
-  date: "2019-09-02"
+  date: 2019-09-01
   location: Harley-Davidson, 750 S Camino del Rio, Durango, CO 81301
   info_url: https://www.facebook.com/FourCornersMotorcycleRally/
 
 - name: Thrive (Canton GA) TBA
-  date: "2019-09-06"
+  date: 2019-09-05
   location: Thrive, 141 Railroad Street, Suite 202, Canton, GA 30114
