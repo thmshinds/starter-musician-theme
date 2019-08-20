@@ -11,12 +11,12 @@ social:
   - name: Facebook
     url: https://www.facebook.com/hindsthomas/
   - name: Instagram
-    url: https://instagram.com
-  - name: Twitter
-    url: https://twitter.com
+    url: https://instagram.com/hindsight_musings
+#  - name: Twitter
+#    url: https://twitter.com
   - name: Youtube
-    url: https://youtube.com
+    url: https://www.youtube.com/user/Tbone77777
   - name: Spotify
-    url: https://spotify.com
+    url: https://open.spotify.com/artist/7wOxMZgaCVFRwfRT9tvqDH
 
 site_language: en
