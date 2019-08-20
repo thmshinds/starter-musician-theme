@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Starter Site for Gatsby Theme Musician",
+    title: "Thomas Hinds Media",
     description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    siteUrl: "http://thomashindsmedia.netlify.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
