@@ -1,10 +1,10 @@
-- title: Sample Release 1
-  date: 2014-01-01
+- title: Resurrection Road
+  date: 2019-02-01
   release_type: Album
-  image: "./images/placeholder.jpg"
+  image: "./images/resurrection-road.jpg"
   links:
-    - name: Discogs
-      url: https://discogs.com
+    - name: Spotify
+      url: https://open.spotify.com/album/2OBchwSSiprcdwBc9sY6XW
 
 - title: Sample Release 2
   date: 2018-01-01
