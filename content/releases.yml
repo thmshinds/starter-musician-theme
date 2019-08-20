@@ -6,20 +6,20 @@
     - name: Spotify
       url: https://open.spotify.com/album/2OBchwSSiprcdwBc9sY6XW
 
-- title: Sample Release 2
-  date: 2018-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Bandcamp
-      url: https://bandcamp.com
+#- title: Sample Release 2
+#  date: 2018-01-01
+#  release_type: Album
+#  image: "./images/placeholder.jpg"
+#  links:
+#    - name: Bandcamp
+#      url: https://bandcamp.com
 
-- title: Sample Release 3
-  date: 2019-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Spotify
-      url: https://open.spotify.com
-    - name: Apple Music
-      url: https://music.apple.com
+#- title: Sample Release 3
+#  date: 2019-01-01
+#  release_type: Album
+#  image: "./images/placeholder.jpg"
+#  links:
+#    - name: Spotify
+#      url: https://open.spotify.com
+#    - name: Apple Music
+#      url: https://music.apple.com
