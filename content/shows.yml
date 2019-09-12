@@ -1,29 +1,38 @@
-- name: Traeger's Bar
-  date: 2019-09-01
-  location: Traegers, 5170 College Blvd, Farmington, NM 87402
-  # info_url and map_url are optional
-  info_url: https://www.traegersbar.com/upcomingevents
-#  map_url: https://www.google.com/maps/
+- name: 
+  date: 
+  location: 
   
-- name: Four Corners Motorcycle Rally
-  date: 2019-09-02
-  location: Harley-Davidson, 750 S Camino del Rio, Durango, CO 81301
-  info_url: https://www.facebook.com/FourCornersMotorcycleRally/
+  info_url: 
 
-- name: Thrive (Canton GA) TBA
-  date: 2019-09-06
-  location: Thrive, 141 Railroad Street, Suite 202, Canton, GA 30114
+  
+- name: 
+  date: 
+  location: 
+  info_url: 
+
+- name: 
+  date: 
+  location: 
 
 - name: Tavern 76
   date: 2019-09-14
   location: Tavern 76, 520 Hwy 76, White House, TN 37188
   info_url: https://www.facebook.com/events/881198428931263/
   
+  - name: Yee-Haw Brewing
+  date: 2019-09-15
+  location: Yee-Haw Brewing, 126 Buffalo St, Johnson City, TN 37188
+  info_url: https://www.facebook.com/events/513900726097761/
   
+- name: Pickin On Ball Ground
+  date: 2019-09-22
+  location: 215 Valley St, Ball Ground, GA 30107
+  info_url: https://www.facebook.com/events/2451435328212943/
   
-  
-  
-  
+- name: Highrail Southern Eatery
+  date: 2019-09-22
+  location: 122 Main St, Thomson, GA 30824
+  info_url: https://www.facebook.com/events/363826727875282/
   
   
   
