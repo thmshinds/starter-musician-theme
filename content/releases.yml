@@ -18,12 +18,12 @@
     - name: Apple Music
       url: https://music.apple.com/us/album/ghosts-and-lamentations/1004862629
 
-#- title: Sample Release 3
-#  date: 2019-01-01
-#  release_type: Album
-#  image: "./images/placeholder.jpg"
-#  links:
-#    - name: Spotify
-#      url: https://open.spotify.com
-#    - name: Apple Music
-#      url: https://music.apple.com
+- title: Barbwire Bouquet
+  date: 2017-12-35
+  release_type: Album
+  image: "./images/bouquet.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/0fI8k8MNrYEndRz1F7xF90
+    - name: Apple Music
+      url: https://music.apple.com/us/album/barbwire-bouquet-ep/1325938378
