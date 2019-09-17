@@ -1,25 +1,14 @@
-- name: 
-  date: 
-  location: 
-  
-  info_url: 
-
-  
-- name: 
-  date: 
-  location: 
-  info_url: 
-
-- name: 
-  date: 
-  location: 
+#- name: 
+#  date: 
+#  location: 
+#  info_url: 
 
 - name: Tavern 76
   date: 2019-09-14
   location: Tavern 76, 520 Hwy 76, White House, TN 37188
   info_url: https://www.facebook.com/events/881198428931263/
   
-  - name: Yee-Haw Brewing
+- name: Yee-Haw Brewing
   date: 2019-09-15
   location: Yee-Haw Brewing, 126 Buffalo St, Johnson City, TN 37188
   info_url: https://www.facebook.com/events/513900726097761/
