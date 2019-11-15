@@ -2,10 +2,6 @@
 #  date: 
 #  location: 
 #  info_url: 
-- name: Open Mic Night at The Hawg and Ale
-  date: 2019-11-13
-  location: The Hawg and Ale Smokehouse, 25 Powder Springs Street, Marietta, GA, 30064, (678) 780-4294 (HAWG)
-  info_url: 
   
 - name: Thomas Hinds Live at Chipper's Club
   date: 2019-11-15
@@ -21,6 +17,11 @@
   date: 2019-12-08
   location: The Local Bar and Grill, 120 South Erwin Street, Cartersville, Georgia 30120
   info_url: https://www.facebook.com/events/410838163185215/
+  
+- name: Thomas Hinds Live at Chipper's Club
+  date: 2019-12-14
+  location: Chipper's Club, 659 Atlanta Street, Roswell, Georgia 30075
+  info_url: https://www.facebook.com/events/2390359077869219/
   
 - name: Dust Off Brewing Co.
   date: 2019-12-15
