@@ -35,12 +35,17 @@
     
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-01-01
-  location: 19 South Main Street, Ellijay, Georgia,30540,(706) 697-9463
+  location: 19 South Main Street, Ellijay, Georgia 30540,(706) 697-9463
   info_url: https://www.facebook.com/events/1490572634447870/
+  
+- name: Thomas Hinds Live at Bear Claw Winery
+  date: 2020-01-05
+  location: 2281 Tennis Court Road, Blue Ridge, Georgia 30513, (706) 223-3750
+  info_url: https://www.facebook.com/events/1868316326634134/
   
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-02-01
-  location: 19 South Main Street, Ellijay, Georgia,30540,(706) 697-9463
+  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/1199871630213422/
 
 
