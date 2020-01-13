@@ -12,10 +12,12 @@ social:
     url: https://www.facebook.com/hindsthomas/
   - name: Instagram
     url: https://instagram.com/hindsight_musings
-#  - name: Twitter
-#    url: https://twitter.com
+  - name: Patreon
+    url: https://www.patreon.com/thomashindsmusic
   - name: Youtube
     url: https://www.youtube.com/user/Tbone77777
+  - name: Apple
+    url: https://music.apple.com/us/artist/thomas-hinds/1004862632
   - name: Spotify
     url: https://open.spotify.com/artist/7wOxMZgaCVFRwfRT9tvqDH
 
