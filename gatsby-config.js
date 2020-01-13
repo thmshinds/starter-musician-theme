@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: "Thomas Hinds Media",
     description: "",
-    siteUrl: "http://thomashindsmedia.netlify.com"
+    siteUrl: "https://thomashindsmedia.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -23,6 +23,14 @@ module.exports = {
         // content: `content`,
         // pwaName: null
       }
-    }
+    },
+     // Add gatsby-plugin-mailchimp
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        // Find the POST URL for signing up to your list with an embedded form
+        endpoint: 'https://thomashindsmedia.us4.list-manage.com/subscribe/post?u=3104bf792d5c0d275a2c015e8&amp;id=9a82b9d3e2',
+      },
+    },
   ]
 };
