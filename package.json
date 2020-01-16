@@ -12,7 +12,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.13.28",
+    "gatsby": "^2.18.23",
     "gatsby-plugin-mailchimp": "^5.1.2",
     "gatsby-plugin-manifest": "^2.2.37",
     "gatsby-theme-musician": "^1.0.5",
