@@ -32,9 +32,5 @@ module.exports = {
         endpoint: 'https://thomashindsmedia.us4.list-manage.com/subscribe/post?u=3104bf792d5c0d275a2c015e8&amp;id=9a82b9d3e2',
       },
     },
-     // Add gatsby-plugin-favicon
-    {
-    resolve: 'gatsby-plugin-favicon',
-    },
   ]
 };
