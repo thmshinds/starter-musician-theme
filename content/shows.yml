@@ -3,15 +3,17 @@
 #  location: 
 #  info_url:  
 
-- name: Thomas Hinds LIVE at Yee-Haw Brewing Company
-  date: 2020-01-17
-  location: 126 Buffalo Street, Johnson City, TN, 37604,(423) 328-9192
-  info_url: https://www.facebook.com/events/558960351322825/
   
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-01-31
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/1199871630213422/
+  
+- name: Thomas Hinds at Cafe Cancun 6pm
+  date: 2020-02-01
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: https://www.facebook.com/events/466518597349424/
+  
   
 - name: Thomas Hinds at Tricky Dick's 7pm
   date: 2020-02-08
