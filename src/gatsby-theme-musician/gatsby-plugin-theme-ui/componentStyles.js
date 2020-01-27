@@ -8,7 +8,7 @@ import textStyles from "./textStyles"
 
 const bannerComponentStyle = {
   display: "flex",
-//  minHeight: ["60vh", null, 400],
+  minHeight: ["50vh", null, 400],
   position: "relative",
   textAlign: "center",
   background: colors.text,
