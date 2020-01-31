@@ -1,7 +1,14 @@
 #- name: 
 #  date: 
 #  location: 
-#  info_url:  
+#  info_url:
+
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+
+  
 
   
 - name: Thomas Hinds Live at Cartecay Wine & Craft
@@ -36,6 +43,11 @@
   date: 2020-03-07
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/449202402442167/
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-04-11
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
   
 - name: Thomas Hinds Live at The Lucky Lager
   date: 2020-03-13
@@ -137,11 +149,22 @@
   location: KB Dillon's, 101 West Broadway, Farmington, New Mexico, 87401,(505) 325-0222
   info_url: https://www.facebook.com/events/1232011920315488/
   
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-07-04
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+  
     
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-07-18
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/785466998632137/
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-08-15
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
   
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-08-22
@@ -158,6 +181,16 @@
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/1234794376710328/
   
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-09-11
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-09-12
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+  
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-10-04
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
@@ -168,10 +201,25 @@
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/464686660906764/
   
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-10-31
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+  
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-11-07
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/1225864594277708/
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-11-20
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
+  
+- name: Thomas Hinds Live at Cafe Cancun 
+  date: 2020-11-21
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: 
   
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-12-06
