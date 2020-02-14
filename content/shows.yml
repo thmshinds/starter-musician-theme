@@ -4,26 +4,18 @@
 #  info_url: 
 
   
-- name: Thomas Hinds LIVE at Rock ‘N’ Taco Original Music Series 9pm
-  date: 2020-02-11
-  location: Rock ‘N’ Taco, 928 Canton Street Roswell, GA 30075, 678-878-3414
-  info_url: 
-  
-- name: Thomas Hinds at MadLife Stage and Studios 8-11pm
-  date: 2020-02-12
-  location: MadLife Stage and Studios, Woodstock, Georgia
-  info_url: https://www.facebook.com/events/658357444900929/
-  
-- name: Thomas Hinds LIVE at Chipper's Club
-  date: 2020-02-13
-  location: Chipper's Club, 659 Atlanta Street, Roswell, Georgia 30075, (470) 282-1892
-  info_url: https://www.facebook.com/events/966494977055445/
-  
+
    
 - name: Thomas Hinds LIVE at Reformation Brewery (Canton) 7-10 pm
   date: 2020-02-15
   location: Reformation Brewery (Canton), 141 Railroad Street Suite 500, Canton, Georgia, 30114
   info_url: https://www.facebook.com/events/517440142222505/
+  
+- name: Thomas Hinds LIVE at Smith's Olde Bar
+  date: 2020-03-02
+  location: Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA 30324, (404) 875-1522
+  info_url: 
+  
   
 - name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
   date: 2020-03-05
@@ -146,6 +138,12 @@
   date: 2020-05-16
   location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
   info_url: https://www.facebook.com/events/2898957893455798/
+  
+- name: Thomas Hinds Live at Flying Heart Brewery and Pub
+  date: 2020-05-21
+  location: Flying Heart Brewery and Pub, 700 Barksdale Blvd, Bossier City, LA 71111, (318) 584-7039
+  info_url: 
+  
   
 - name: Thomas Hinds Locals Live on Main Street, 6-8pm
   date: 2020-05-23
