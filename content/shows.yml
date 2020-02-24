@@ -3,16 +3,7 @@
 #  location: 
 #  info_url: 
 
-  
 
-   
-
-  
-- name: Thomas Hinds performs at The Originals at Charlton's
-  date: 2020-02-22
-  location: Charlton's Grill and Tap, 3005 Old Alabama Road, Suite 100, Johns Creek, Georgia, 30022
-  info_url: https://www.facebook.com/events/189987808774584/
-  
 - name: Thomas Hinds LIVE at Smith's Olde Bar
   date: 2020-03-02
   location: Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA 30324, (404) 875-1522
@@ -114,6 +105,12 @@
   date: 2020-04-26
   location: 2281 Tennis Court Road, Blue Ridge, GA 30513, 706-223-3750
   info_url: https://www.facebook.com/events/1681477641993730/
+  
+  
+- name: Thomas Hinds debuts at The Red Shamrock Pub, 8pm-12am
+  date: 2020-05-01
+  location: The Red Shamrock Pub, 42 Manning Place, Birmingham, Alabama, 35242
+  info_url:
 
 - name: Thomas Hinds LIVE at The Canton Arts Festival
   date: 2020-05-02
