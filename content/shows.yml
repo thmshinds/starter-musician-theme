@@ -2,45 +2,23 @@
 #  date: 
 #  location: 
 #  info_url: 
-
-
-- name: Thomas Hinds LIVE at Smith's Olde Bar
-  date: 2020-03-02
-  location: Smith's Olde Bar, 1578 Piedmont Ave NE, Atlanta, GA 30324, (404) 875-1522
-  info_url: https://www.smithsoldebar.com/
-  
-  
-- name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
-  date: 2020-03-05
-  location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
-  info_url: https://www.facebook.com/events/254123462240688/
-  
+ 
 - name: Thomas Hinds debuts at The Office at City Cafe, 10pm-1am
   date: 2020-03-06
   location: The Office at City Cafe, 901 Carter Street, Chattanooga, Tennessee 37402, (423) 485-8222
   info_url: https://www.facebook.com/events/2659128584314961/
   
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-03-07
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/449202402442167/
-  
+- name: Thomas Hinds Live at The Lucky Lager
+  date: 2020-03-13
+  location: The Lucky Lager, 100 E Cooke Street, Mount Pulaski, Illinois 62548,(217) 270-0043
+  info_url: https://www.facebook.com/events/2528473974098887/
+     
 - name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
   date: 2020-03-19
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
   info_url: https://www.facebook.com/events/188246795593731/
   
-- name: Thomas Hinds Live at Cafe Cancun 6-9 pm
-  date: 2020-04-11
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/1245607065630574/
-  
-- name: Thomas Hinds Live at The Lucky Lager
-  date: 2020-03-13
-  location: The Lucky Lager, 100 E Cooke Street, Mount Pulaski, Illinois 62548,(217) 270-0043
-  info_url: https://www.facebook.com/events/2528473974098887/
-  
+ 
   
 - name: Thomas Hinds Locals Live on Main Street, 6-8pm
   date: 2020-03-21
@@ -69,6 +47,11 @@
   location: 20 South Erwin Street, Cartersville, Georgia 30120, (678) 719-8588
   info_url: https://www.facebook.com/events/2646178252098572/
   
+- name: Thomas Hinds debuts at Prime 120 Restaurant 9-11pm
+  date: 2020-04-04
+  location: Prime 120, 120 Chambers St, Woodstock, GA 30188, (770) 800-8049
+  info_url: https://www.facebook.com/events/209773203468031/
+  
 - name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
   date: 2020-04-09
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
@@ -78,6 +61,11 @@
   date: 2020-04-10
   location: Guston's Grille, 3330 Cobb Pkwy NW, Ste 100, Acworth, Georgia, 30101,(770) 485-3079
   info_url: https://www.facebook.com/events/765537273928678/
+  
+- name: Thomas Hinds Live at Cafe Cancun 6-9 pm
+  date: 2020-04-11
+  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
+  info_url: https://www.facebook.com/events/1245607065630574/
   
 - name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
   date: 2020-04-16
