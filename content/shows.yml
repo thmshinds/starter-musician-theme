@@ -3,26 +3,6 @@
 #  location: 
 #  info_url: 
 
-- name: Thomas Hinds LIVE at The Blue Coyote 8-11pm
-  date: 2020-06-05
-  location: 500 E Main St, Blue Ridge, GA 30513, (706) 946-2466
-  info_url: 
-  
-- name: Thomas Hinds LIVE at The Blue Coyote 1-4pm
-  date: 2020-06-07
-  location: 500 E Main St, Blue Ridge, GA 30513, (706) 946-2466
-  info_url: 
-   
-- name: Thomas Hinds Live at KB Dillon's
-  date: 2020-06-18
-  location: KB Dillon's, 101 West Broadway, Farmington, New Mexico, 87401,(505) 325-0222
-  info_url: https://www.facebook.com/events/2471829786392360/
-   
-- name: Thomas Hinds Live at KB Dillon's
-  date: 2020-06-19
-  location: KB Dillon's, 101 West Broadway, Farmington, New Mexico, 87401,(505) 325-0222
-  info_url: https://www.facebook.com/events/1232011920315488/
-  
 - name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
   date: 2020-06-25
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
@@ -33,13 +13,10 @@
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
   info_url: https://www.facebook.com/events/2440792922917955/
   
-  
-  
 - name: Thomas Hinds at Bear Claw Vineyards 3:30-7:30pm
   date: 2020-07-03
   location: 2281 Tennis Court Road, Blue Ridge, GA 30513, 706-223-3750
   info_url: https://www.facebook.com/events/175654093778295/
-  
   
 - name: Thomas Hinds Live at Cafe Cancun 6-9pm
   date: 2020-07-04
@@ -50,8 +27,6 @@
   date: 2020-07-16
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
   info_url: 
-  
-  
     
 - name: Thomas Hinds Live at Cartecay Wine & Craft
   date: 2020-07-18
@@ -137,8 +112,6 @@
   date: 2020-12-26
   location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
   info_url: https://www.facebook.com/events/867888466998354/
-  
-  
 
 - name: Thomas Hinds Live at KB Dillon's
   date: 2020-12-31
