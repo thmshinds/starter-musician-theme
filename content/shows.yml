@@ -3,17 +3,12 @@
   location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia 30135
   info_url: https://www.facebook.com/events/2440792922917955
 
-- name: Thomas Hinds Live
-  date: "2020-07-03"
-  location: Bear Claw Vineyards & Winery, Inc. home of the Blue Ridge TreeHouse, 2281 Tennis Court Rd, Blue Ridge, Georgia 30513
-  info_url: https://www.facebook.com/events/175654093778295
-
 - name: Live at The Blue Coyote
   date: "2020-07-04"
   location: The Blue Coyote, 500 E Main Street, Blue Ridge, Georgia 30513
   info_url: https://www.facebook.com/events/302974700894283
 
-- name: Thomas Hinds Live
+- name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-07-04"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/2706902262763322
@@ -38,12 +33,12 @@
   location: Moon Roof Bar At Harvestmoon Cafe, 234 Broad St, Rome, Georgia 30161
   info_url: https://www.facebook.com/events/312321846603902
 
-- name: Elevated Events Presents in Ball Ground
+- name: Live on Main Street - Thomas Hinds
   date: "2020-07-25"
-  location: Ball Ground, Georgia
-  info_url: https://www.facebook.com/events/687198448789626
+  location: Ball Ground Burger Bus, 288 Gilmer Ferry Rd, Ball Ground, Georgia 30107
+  info_url: https://www.facebook.com/events/267183174350035
 
-- name: Prime 120 Live Thomas Hinds
+- name: Prime 120 Live - Thomas Hinds
   date: "2020-07-30"
   location: Prime 120, 120 Chambers Street, Woodstock, Georgia 30188
   info_url: https://www.facebook.com/events/2333778356923481
@@ -53,7 +48,12 @@
   location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, Georgia 30115
   info_url: https://www.facebook.com/events/269729550761178
 
-- name: Thomas Hinds
+- name: KNL Promotions presents at Pour Taproom
+  date: "2020-08-08"
+  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, Tennessee 37902
+  info_url: https://www.facebook.com/events/268436151108810
+
+- name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-08-15"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/632144990936494
@@ -64,16 +64,11 @@
   info_url: https://www.facebook.com/events/466489347386333
 
 - name: Thomas Hinds Live
-  date: "2020-09-05"
-  location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
-  info_url: https://www.facebook.com/events/1234794376710328
-
-- name: Thomas Hinds Live
   date: "2020-09-07"
   location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
   info_url: https://www.facebook.com/events/469502023979169
 
-- name: Thomas Hinds Live
+- name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-09-11"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/180838013154252
@@ -88,7 +83,7 @@
   location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
   info_url: https://www.facebook.com/events/464686660906764
 
-- name: Thomas Hinds Live
+- name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-10-31"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/2859679940763577
@@ -98,7 +93,7 @@
   location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
   info_url: https://www.facebook.com/events/1225864594277708
 
-- name: Thomas Hinds Live
+- name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-11-20"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/638172670346371
@@ -113,7 +108,7 @@
   location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
   info_url: https://www.facebook.com/events/541086456476718
 
-- name: Thomas Hinds Live
+- name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-12-26"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
   info_url: https://www.facebook.com/events/867888466998354
@@ -122,3 +117,4 @@
   date: "2020-12-31"
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
+
