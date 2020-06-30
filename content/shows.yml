@@ -1,120 +1,129 @@
-#- name: 
-#  date: 
-#  location: 
-#  info_url: 
+- name: Thomas Hinds Live
+  date: "2020-07-02 15:00:00-07:00"
+  location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia 30135
+  info_url: https://www.facebook.com/events/2440792922917955
 
-- name: Thomas Hinds LIVE at The Jazz and Blues Festival 
-  date: 2020-06-27
-  location: Downtown, Canton
-  info_url: https://www.facebook.com/events/622247211708620/
-  
-- name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
-  date: 2020-07-02
-  location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
-  info_url: https://www.facebook.com/events/2440792922917955/
-  
-- name: Thomas Hinds at Bear Claw Vineyards 3:30-7:30pm
-  date: 2020-07-03
-  location: 2281 Tennis Court Road, Blue Ridge, GA 30513, 706-223-3750
-  info_url: https://www.facebook.com/events/175654093778295/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-07-04
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/2706902262763322/
-  
-- name: Thomas Hinds LIVE at Hangar 92 Bar & Grill 6-9pm
-  date: 2020-07-16
-  location: Hangar 92 Bar & Grill, 2123 Fairburn Road, Douglasville, Georgia, 30135, (678) 398-7808
-  info_url: 
-    
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-07-18
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/785466998632137/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-08-15
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/632144990936494/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-08-22
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/466489347386333/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-09-05
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/1234794376710328/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-09-07
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/1234794376710328/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-09-11
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/180838013154252/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-09-12
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/568587223695544/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-10-04
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/770301466780651/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-10-24
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/464686660906764/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-10-31
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/2859679940763577/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-11-07
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/1225864594277708/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-11-20
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/638172670346371/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-11-21
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/820361155041811/
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-12-04
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/2986933538049950/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-12-06
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/464872177764708/
-  
-- name: Thomas Hinds Live at Cartecay Wine & Craft
-  date: 2020-12-19
-  location: 19 South Main Street, Ellijay, Georgia 30540, (706) 697-9463
-  info_url: https://www.facebook.com/events/541086456476718/ 
-  
-- name: Thomas Hinds Live at Cafe Cancun 6-9pm
-  date: 2020-12-26
-  location: 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528, (706) 865-0411
-  info_url: https://www.facebook.com/events/867888466998354/
+- name: Thomas Hinds Live
+  date: "2020-07-03 12:30:00-07:00"
+  location: Bear Claw Vineyards & Winery, Inc. home of the Blue Ridge TreeHouse, 2281 Tennis Court Rd, Blue Ridge, Georgia 30513
+  info_url: https://www.facebook.com/events/175654093778295
+
+- name: Live at The Blue Coyote
+  date: "2020-07-04 10:00:00-07:00"
+  location: The Blue Coyote, 500 E Main Street, Blue Ridge, Georgia 30513
+  info_url: https://www.facebook.com/events/302974700894283
+
+- name: Thomas Hinds Live
+  date: "2020-07-04 16:00:00-07:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/2706902262763322
+
+- name: Live at the Rock n Taco Thomas Hinds
+  date: "2020-07-06 16:00:00-07:00"
+  location: Rock n Taco Roswell, 928 Canton Street, Roswell, Georgia 30075
+  info_url: https://www.facebook.com/events/1600047843478919
+
+- name: KNL Promotions presents Live at Fulford's Fish House
+  date: "2020-07-10 15:00:00-07:00"
+  location: Fulford's Fish House, 101 East Stable Alley, St. Marys, Georgia 31558
+  info_url: https://www.facebook.com/events/878130349257242
+
+- name: KNL Promotions presents Live at 1626 Main
+  date: "2020-07-11 08:00:00-07:00"
+  location: 1626 on Main, 1626 Main St., Columbia, South Carolina 29201
+  info_url: https://www.facebook.com/events/1400506046817677
+
+- name: KNL Promotions Presents Live at Moon Roof Bar
+  date: "2020-07-17 19:00:00-07:00"
+  location: Moon Roof Bar At Harvestmoon Cafe, 234 Broad St, Rome, Georgia 30161
+  info_url: https://www.facebook.com/events/312321846603902
+
+- name: Elevated Events Presents in Ball Ground
+  date: "2020-07-25 15:00:00-07:00"
+  location: Ball Ground, Georgia
+  info_url: https://www.facebook.com/events/687198448789626
+
+- name: Prime 120 Live: Thomas Hinds
+  date: "2020-07-30 15:00:00-07:00"
+  location: Prime 120, 120 Chambers Street, Woodstock, Georgia 30188
+  info_url: https://www.facebook.com/events/2333778356923481
+
+- name: Live at Music On The Vine
+  date: "2020-07-31 16:00:00-07:00"
+  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, Georgia 30115
+  info_url: https://www.facebook.com/events/269729550761178
+
+- name: Thomas Hinds
+  date: "2020-08-15 15:00:00-07:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/632144990936494
+
+- name: Thomas Hinds Live
+  date: "2020-08-22 10:00:00-07:00"
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  info_url: https://www.facebook.com/events/466489347386333
+
+- name: Thomas Hinds Live
+  date: "2020-09-05 15:00:00-07:00"
+  location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
+  info_url: https://www.facebook.com/events/1234794376710328
+
+- name: Thomas Hinds Live
+  date: "2020-09-07 10:00:00-07:00"
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  info_url: https://www.facebook.com/events/469502023979169
+
+- name: Thomas Hinds Live
+  date: "2020-09-11 15:00:00-07:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/180838013154252
+
+- name: Thomas Hinds Live
+  date: "2020-10-04 10:00:00-07:00"
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  info_url: https://www.facebook.com/events/770301466780651
+
+- name: Live Music with Thomas Hinds
+  date: "2020-10-04 10:30:00-07:00"
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  info_url: https://www.facebook.com/events/554299241927812
+
+- name: Thomas Hinds Live
+  date: "2020-10-24 15:00:00-07:00"
+  location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
+  info_url: https://www.facebook.com/events/464686660906764
+
+- name: Thomas Hinds Live
+  date: "2020-10-31 15:00:00-07:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/2859679940763577
+
+- name: Thomas Hinds
+  date: "2020-11-07 15:00:00-08:00"
+  location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
+  info_url: https://www.facebook.com/events/1225864594277708
+
+- name: Thomas Hinds Live
+  date: "2020-11-20 15:00:00-08:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/638172670346371
+
+- name: Thomas Hinds Live
+  date: "2020-12-06 10:00:00-08:00"
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  info_url: https://www.facebook.com/events/464872177764708
+
+- name: Thomas Hinds Live
+  date: "2020-12-19 10:00:00-08:00"
+  location: Cartecay Wine & Craft, 19 South Main Street, Ellijay, Georgia 30540
+  info_url: https://www.facebook.com/events/541086456476718
+
+- name: Thomas Hinds Live
+  date: "2020-12-26 15:00:00-08:00"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  info_url: https://www.facebook.com/events/867888466998354
 
 - name: Thomas Hinds Live at KB Dillon's
-  date: 2020-12-31
-  location: KB Dillon's, 101 West Broadway, Farmington, New Mexico, 87401,(505) 325-0222
-  info_url: https://www.facebook.com/events/594600484704371/
-  
+  date: "2020-12-31 18:00:00-08:00"
+  location: Farmington, New Mexico
+  info_url: https://www.facebook.com/events/594600484704371
