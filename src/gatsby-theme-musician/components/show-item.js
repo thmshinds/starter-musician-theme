@@ -70,7 +70,7 @@ const ShowItem = ({ id, name, date, location, info_url, map_url, locale }) => {
               rel="external nofollow"
               sx={{ variant: "textStyles.button" }}
             >
-              RSVP
+              Detail / RSVP
             </a>
           ) : (
             <small
