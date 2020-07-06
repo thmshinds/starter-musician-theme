@@ -1,18 +1,3 @@
-- name: Live at The Blue Coyote
-  date: "2020-07-04"
-  location: The Blue Coyote, 500 E Main Street, Blue Ridge, Georgia 30513
-  info_url: https://www.facebook.com/events/302974700894283
-
-- name: Firefly Productions presents Live at Cafe Cancun
-  date: "2020-07-04"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
-  info_url: https://www.facebook.com/events/2706902262763322
-
-- name: Live at The Blue Coyote
-  date: "2020-07-05"
-  location: The Blue Coyote, 500 E Main Street, Blue Ridge, Georgia 30513
-  info_url: https://www.facebook.com/events/896480817499114
-
 - name: Live at the Rock n Taco Thomas Hinds
   date: "2020-07-06"
   location: Rock n Taco Roswell, 928 Canton Street, Roswell, Georgia 30075
@@ -65,7 +50,7 @@
 
 - name: KNL Promotions presents at Pour Taproom
   date: "2020-08-08"
-  location: Pour Taproom, 207 West Jackson Avenue, Knoxville, Tennessee 37902
+  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, Tennessee 37902
   info_url: https://www.facebook.com/events/268436151108810
 
 - name: Firefly Productions presents Live at Cafe Cancun
@@ -132,3 +117,4 @@
   date: "2020-12-31"
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
+
