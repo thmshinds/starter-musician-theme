@@ -1,3 +1,13 @@
+- title: Luminous
+  date: 2020-03-20
+  release_type: Single
+  image: "./images/luminous.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/0CcKhj5aWJNt1LdqbDNxI8
+    - name: Apple Music
+      url: https://music.apple.com/us/album/luminous-single/1503557309
+
 - title: Resurrection Road
   date: 2019-02-01
   release_type: Album
@@ -8,16 +18,6 @@
     - name: Apple Music
       url: https://music.apple.com/us/album/resurrection-road/1451874916
 
-- title: Ghosts and Lamentations
-  date: 2015-06-03
-  release_type: Album
-  image: "./images/ghosts.jpg"
-  links:
-    - name: Spotify
-      url: https://music.apple.com/us/album/resurrection-road/1451874916
-    - name: Apple Music
-      url: https://music.apple.com/us/album/ghosts-and-lamentations/1004862629
-
 - title: Barbwire Bouquet
   date: 2017-12-35
   release_type: Album
@@ -27,3 +27,13 @@
       url: https://open.spotify.com/album/0fI8k8MNrYEndRz1F7xF90
     - name: Apple Music
       url: https://music.apple.com/us/album/barbwire-bouquet-ep/1325938378
+
+- title: Ghosts and Lamentations
+  date: 2015-06-03
+  release_type: Album
+  image: "./images/ghosts.jpg"
+  links:
+    - name: Spotify
+      url: https://music.apple.com/us/album/resurrection-road/1451874916
+    - name: Apple Music
+      url: https://music.apple.com/us/album/ghosts-and-lamentations/1004862629
