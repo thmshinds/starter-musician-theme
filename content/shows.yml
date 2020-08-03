@@ -1,66 +1,56 @@
-- name: Prime 120 Live - Thomas Hinds
-  date: "2020-07-30"
-  location: Prime 120, 120 Chambers Street, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/2333778356923481
-
-- name: Live at Music On The Vine
-  date: "2020-07-31"
-  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, Georgia 30115
-  info_url: https://www.facebook.com/events/269729550761178
-
 - name: KNL Promotions presents at Pour Taproom
   date: "2020-08-08"
-  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, Tennessee 37902
+  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, TN 37902
   info_url: https://www.facebook.com/events/268436151108810
 
 - name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-08-15"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/632144990936494
 
 - name: Thomas Hinds Live
   date: "2020-08-22"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/466489347386333
 
 - name: 1st Songwriter Night Festival
   date: "2020-08-29"
-  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, Georgia 30115
+  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, GA 30115
   info_url: https://www.facebook.com/events/577097269648462
 
 - name: Thomas Hinds Live
   date: "2020-09-07"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/469502023979169
 
 - name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-09-11"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/180838013154252
 
 - name: Live Music with Thomas Hinds
   date: "2020-10-04"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/554299241927812
 
 - name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-10-31"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/2859679940763577
 
 - name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-11-20"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/638172670346371
 
 - name: Thomas Hinds Live
   date: "2020-12-06"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, Georgia 30536
+  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/464872177764708
 
 - name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-12-26"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, Georgia 30528
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/867888466998354
 
 - name: Thomas Hinds Live at KB Dillon's
