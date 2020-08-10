@@ -1,12 +1,27 @@
-- name: KNL Promotions presents at Pour Taproom
-  date: "2020-08-08"
-  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, TN 37902
-  info_url: https://www.facebook.com/events/268436151108810
+- name: Live at Blue Coyote Thomas Hinds
+  date: "2020-08-15"
+  location: The Blue Coyote, 500 E Main Street, Blue Ridge, GA 30513
+  info_url: https://www.facebook.com/events/285875359369704
 
 - name: Firefly Productions presents Live at Cafe Cancun
   date: "2020-08-15"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/632144990936494
+
+- name: Open Mic and featured artist Thomas Hinds
+  date: "2020-08-18"
+  location: Bradley's Bar and Grill, 4961 Lower Roswell Rd, Marietta, GA 30068
+  info_url: https://www.facebook.com/events/210482700400983
+
+- name: Steelhorse Law presents Biker Night featuring Thomas Hinds
+  date: "2020-08-20"
+  location: Hangar 92 Bar & Grill, Douglasville, GA
+  info_url: https://www.facebook.com/events/329663498210991
+
+- name: Gravel, Grit, Fireflies, and Picks Mossy Creek Jam
+  date: "2020-08-22"
+  location: White Path Creek Event Center, 1211 Old Northcutt Rd., Ellijay, GA 30540
+  info_url: https://www.facebook.com/events/632954757335068
 
 - name: Thomas Hinds Live
   date: "2020-08-22"
@@ -27,6 +42,11 @@
   date: "2020-09-11"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
   info_url: https://www.facebook.com/events/180838013154252
+
+- name: KNL Promotions Presents Thomas Hinds
+  date: "2020-09-24"
+  location: Blue Smoke Tavern, 16130 W. Andrew Johnson Hwy, Bulls Gap, TN
+  info_url: https://www.facebook.com/events/589671201747792
 
 - name: Live Music with Thomas Hinds
   date: "2020-10-04"
