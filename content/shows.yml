@@ -1,8 +1,3 @@
-- name: Open Mic and featured artist Thomas Hinds
-  date: "2020-08-18"
-  location: Bradley's Bar and Grill, 4961 Lower Roswell Rd, Marietta, GA 30068
-  info_url: https://www.facebook.com/events/210482700400983
-
 - name: Steelhorse Law presents Biker Night featuring Thomas Hinds
   date: "2020-08-20"
   location: Hangar 92 Bar & Grill, Douglasville, GA
@@ -10,7 +5,7 @@
 
 - name: Gravel, Grit, Fireflies, and Picks Mossy Creek Jam
   date: "2020-08-22"
-  location: White Path Creek Event Center, 1211 Old Northcutt Rd., Ellijay, GA 30540
+  location: White Path Creek Farms, 1211 Old Northcutt Rd., Ellijay, GA 30540
   info_url: https://www.facebook.com/events/632954757335068
 
 - name: Thomas Hinds Live
