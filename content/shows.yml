@@ -1,37 +1,82 @@
-- name: Thomas Hinds Live on the Patio, 1pm-4pm
-  date: "2020-08-29"
+- name: Wing Night at Blue Coyote Bar and Grill
+  date: "2020-09-02"
   location: The Blue Coyote, 500 E Main Street, Blue Ridge, GA 30513
-  info_url: https://www.facebook.com/hindsthomas/photos/a.1269246636465829/3486461304744340/
+  info_url: https://www.facebook.com/events/321546839180192
 
-- name: Songwriter's Night, 5pm - 10pm
-  date: "2020-08-29"
-  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, GA 30115
-  info_url: https://www.facebook.com/events/586744678658207/
+- name: Steelhorse Law presents Biker Night at Hangar 92
+  date: "2020-09-03"
+  location: Click Link for Details
+  info_url: https://www.facebook.com/events/3291417070949912
+
+- name: Biker Day presented by Steelhorse Law at BankheadGrill & Bar
+  date: "2020-09-06"
+  location: Bankhead Grill & Bar, 1202 Bankhead Hwy, Carrollton, GA 30116
+  info_url: https://www.facebook.com/events/663885860894269
 
 - name: Thomas Hinds Live
   date: "2020-09-07"
   location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/469502023979169
 
-- name: Firefly Productions presents Live from Cafe Cancun
-  date: "2020-09-11"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
-  info_url: https://www.facebook.com/events/180838013154252
-
 - name: Prime 120 Live - Thomas Hinds
   date: "2020-09-11"
   location: Prime 120, 120 Chambers Street, Woodstock, GA 30188
   info_url: https://www.facebook.com/events/2386149175027567
+
+- name: Firefly Entertainment and Booking presents Thomas Hinds
+  date: "2020-09-12"
+  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
+  info_url: https://www.facebook.com/events/1442623882605763
+
+- name: KNL Promotions presents Thomas Hinds Live
+  date: "2020-09-13"
+  location: The GRAND, 1621 Main Street, Columbia, SC 29201
+  info_url: https://www.facebook.com/events/649131352386170
+
+- name: Steelhorse Law presents Biker Night at Hangar 92 Bar
+  date: "2020-09-17"
+  location: Click Link for Details
+  info_url: https://www.facebook.com/events/1950648245072104
+
+- name: KNL Promotion presents Thomas Hinds live at Blue Smoke Tavern
+  date: "2020-09-24"
+  location: Blue Smoke Tavern, 16130 W. Andrew Johnson Hwy, Bulls Gap, TN
+  info_url: https://www.facebook.com/events/355126215652659
 
 - name: KNL Promotions Presents Thomas Hinds
   date: "2020-09-24"
   location: Blue Smoke Tavern, 16130 W. Andrew Johnson Hwy, Bulls Gap, TN
   info_url: https://www.facebook.com/events/589671201747792
 
+- name: Private Party
+  date: "2020-09-26"
+  location: Click Link for Details
+  info_url: https://www.facebook.com/events/934038677093874
+
+- name: Steelhorse Law presents Biker Night at Hangar 92 Bar
+  date: "2020-10-01"
+  location: Click Link for Details
+  info_url: https://www.facebook.com/events/630143301262270
+
 - name: Live Music with Thomas Hinds
   date: "2020-10-04"
   location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
   info_url: https://www.facebook.com/events/554299241927812
+
+- name: Biker night presented by Steelhorse Law at Hangar 92 Bar
+  date: "2020-10-15"
+  location: Click Link for Details
+  info_url: https://www.facebook.com/events/380478139992916
+
+- name: Music On The Vine presents an Evening with Thomas Hinds
+  date: "2020-10-17"
+  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, GA 30115
+  info_url: https://www.facebook.com/events/241388077077003
+
+- name: Thomas Hinds Live at Wicked Wings
+  date: "2020-10-30"
+  location: Wicked Wings, 3760 Sixes Rd, Canton, GA 30114
+  info_url: https://www.facebook.com/events/313836946346611
 
 - name: Firefly Productions presents Live from Cafe Cancun
   date: "2020-10-31"
@@ -57,4 +102,3 @@
   date: "2020-12-31"
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
-
