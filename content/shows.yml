@@ -1,21 +1,6 @@
-- name: Wing Night at Blue Coyote Bar and Grill
-  date: "2020-09-02"
-  location: The Blue Coyote, 500 E Main Street, Blue Ridge, GA 30513
-  info_url: https://www.facebook.com/events/321546839180192
-
-- name: Steelhorse Law presents Biker Night at Hangar 92
-  date: "2020-09-03"
-  location: Click Link for Details
-  info_url: https://www.facebook.com/events/3291417070949912
-
-- name: Biker Day presented by Steelhorse Law at BankheadGrill & Bar
-  date: "2020-09-06"
-  location: Bankhead Grill & Bar, 1202 Bankhead Hwy, Carrollton, GA 30116
-  info_url: https://www.facebook.com/events/663885860894269
-
 - name: Thomas Hinds Live
   date: "2020-09-07"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
+  location: Click Link for Details
   info_url: https://www.facebook.com/events/469502023979169
 
 - name: Prime 120 Live - Thomas Hinds
@@ -58,11 +43,6 @@
   location: Click Link for Details
   info_url: https://www.facebook.com/events/630143301262270
 
-- name: Live Music with Thomas Hinds
-  date: "2020-10-04"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
-  info_url: https://www.facebook.com/events/554299241927812
-
 - name: Biker night presented by Steelhorse Law at Hangar 92 Bar
   date: "2020-10-15"
   location: Click Link for Details
@@ -90,7 +70,7 @@
 
 - name: Thomas Hinds Live
   date: "2020-12-06"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
+  location: Click Link for Details
   info_url: https://www.facebook.com/events/464872177764708
 
 - name: Firefly Productions presents Live at Cafe Cancun
@@ -102,3 +82,4 @@
   date: "2020-12-31"
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
+
