@@ -1,7 +1,17 @@
-- name: Steelhorse Law presents Biker Night at Hangar 92 Bar
-  date: "2020-10-01"
-  location: Hangar 92 Bar & Grill
-  info_url: https://www.facebook.com/events/630143301262270
+- name: Elevated Events presents Thomas Hinds
+  date: "2020-10-02"
+  location: Under The Cork Tree, 5600 Roswell Road Northeast #2, Sandy Springs, GA 30342
+  info_url: https://www.facebook.com/events/359950085356534
+
+- name: Thomas Hinds Under The Cork Tree
+  date: "2020-10-02"
+  location: Under The Cork Tree, 5600 Roswell Road Northeast #2, Sandy Springs, GA 30342
+  info_url: https://www.facebook.com/events/694409057946943
+
+- name: Music On The Vine presents an Evening with Thomas Hinds
+  date: "2020-10-03"
+  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, GA 30115
+  info_url: https://www.facebook.com/events/241388077077003
 
 - name: Live Music with Thomas Hinds
   date: "2020-10-04"
@@ -13,24 +23,29 @@
   location: Hangar 92 Bar & Grill
   info_url: https://www.facebook.com/events/380478139992916
 
-- name: Music On The Vine presents an Evening with Thomas Hinds
+- name: Live at Bear Claw Vineyards
   date: "2020-10-17"
-  location: Music On The Vine, 2800 Holly Spring Parkway, Holly Springs, GA 30115
-  info_url: https://www.facebook.com/events/241388077077003
+  location: Bear Claw Vineyards & Winery, Inc. home of the Blue Ridge TreeHouse, 2281 Tennis Court Rd, Blue Ridge, GA 30513
+  info_url: https://www.facebook.com/events/255975242364006
 
 - name: Live at Feather's Edge Vineyards Thomas Hinds
   date: "2020-10-23"
   location: Feathers Edge Vineyards, 10061 Ball Ground Hwy, Ball Ground, GA 30107
   info_url: https://www.facebook.com/events/336806424431688
 
+- name: KNL Promotions presents Thomas Hinds Live at Parish on Cherry Street
+  date: "2020-10-29"
+  location: Parish on Cherry St., 580 Cherry St, Macon, GA 31201
+  info_url: https://www.facebook.com/events/798219604262193
+
 - name: Thomas Hinds Live at Wicked Wings
   date: "2020-10-30"
   location: Wicked Wings, 3760 Sixes Rd, Canton, GA 30114
   info_url: https://www.facebook.com/events/313836946346611
 
-- name: Firefly Productions presents Live from Cafe Cancun
+- name: Firefly Productions presents Live from The Hayloft
   date: "2020-10-31"
-  location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
+  location: The Hayloft Restaurant & Bar, 69 Tannen Weg, Helen, GA 30545
   info_url: https://www.facebook.com/events/2859679940763577
 
 - name: Firefly Productions presents Live from Cafe Cancun
@@ -52,4 +67,19 @@
   date: "2020-12-31"
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
+
+- name: KNL Promotions presents Thomas Hinds
+  date: "2021-02-13"
+  location: Emily's Bar & Restaurant, 24 River Street, Ellijay, GA 30540
+  info_url: https://www.facebook.com/events/666535207311949
+
+- name: KNL Promotions presents Thomas Hinds
+  date: "2021-03-05"
+  location: Emily's Bar & Restaurant, 24 River Street, Ellijay, GA 30540
+  info_url: https://www.facebook.com/events/964929894013113
+
+- name: KNL Presents Thomas Hinds at Schoolhouse Brewery
+  date: "2021-04-09"
+  location: Schoolhouse Brewing, 840 Franklin Court, Marietta, GA 30067
+  info_url: https://www.facebook.com/events/654624232153000
 
