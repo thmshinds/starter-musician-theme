@@ -1,7 +1,17 @@
+- name: Thomas Hinds Live at Blue Coyote
+  date: "2020-10-10"
+  location: The Blue Coyote, 500 E Main Street, Blue Ridge, GA 30513
+  info_url: https://www.facebook.com/events/944186989409744
+
 - name: Biker night presented by Steelhorse Law at Hangar 92 Bar
   date: "2020-10-15"
   location: Hangar 92 Bar & Grill
   info_url: https://www.facebook.com/events/380478139992916
+
+- name: KNL Promotions presents Thomas Hinds at Pour Taproom
+  date: "2020-10-16"
+  location: Pour Taproom (Knoxville, TN), 207 West Jackson Avenue, Knoxville, TN 37902
+  info_url: https://www.facebook.com/events/335822024412532
 
 - name: Live at Bear Claw Vineyards
   date: "2020-10-17"
@@ -48,6 +58,11 @@
   location: Farmington, New Mexico
   info_url: https://www.facebook.com/events/594600484704371
 
+- name: KNL Promotions presents Thomas Hinds live at Blue Smoke Tavern
+  date: "2021-01-07"
+  location: Blue Smoke Tavern, 16130 W. Andrew Johnson Hwy, Bulls Gap, TN
+  info_url: https://www.facebook.com/events/990737254686824
+
 - name: KNL Promotions presents Thomas Hinds
   date: "2021-02-13"
   location: Emily's Bar & Restaurant, 24 River Street, Ellijay, GA 30540
@@ -57,6 +72,11 @@
   date: "2021-03-05"
   location: Emily's Bar & Restaurant, 24 River Street, Ellijay, GA 30540
   info_url: https://www.facebook.com/events/964929894013113
+
+- name: KNL Promotions presents Thomas Hinds Live at Resting Pulse Brewery
+  date: "2021-03-12"
+  location: Resting Pulse Brewing Company, 714 1st Ave., Opelika, AL 36801
+  info_url: https://www.facebook.com/events/1395460073990333
 
 - name: KNL Presents Thomas Hinds at Schoolhouse Brewery
   date: "2021-04-09"
