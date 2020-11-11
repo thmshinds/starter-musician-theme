@@ -1,7 +1,17 @@
-- name: Firefly Productions presents Live from Cafe Cancun
-  date: "2020-11-20"
+- name: Firefly Entertainment presents Thomas Hinds live at Cafe Cancun
+  date: "2020-11-13"
   location: Cafe Cancun, 154 Wilford Ash Sr Pkwy, Cleveland, GA 30528
-  info_url: https://www.facebook.com/events/638172670346371
+  info_url: https://www.facebook.com/events/1633499773497129
+
+- name: Biker Night at Hangar 92 featuring Thomas Hinds
+  date: "2020-11-19"
+  location: Hangar 92 Bar & Grill, 2123 Fairburn Rd, Douglasville, GA 30135
+  info_url: https://www.facebook.com/events/375973750272872
+
+- name: KNL Promotions presents Thomas Hinds Live at Southern Fields Brewing
+  date: "2020-11-20"
+  location: Southern Fields Brewing, 2328 Hwy 2, Campbellton, FL 32426
+  info_url: https://www.facebook.com/events/384168309370997
 
 - name: Thomas Hinds Live at Cartecay Vineyards
   date: "2020-12-06"
