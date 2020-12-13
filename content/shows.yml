@@ -1,18 +1,3 @@
-- name: Steelhorse Law Presents Biker Night at Hangar 92 featuring Thomas Hinds
-  date: "2020-12-03"
-  location: Hangar 92 Bar & Grill, 2123 Fairburn Rd, Douglasville, GA 30135
-  info_url: https://www.facebook.com/events/402034840920990
-
-- name: Firefly Entertainment presents Thomas Hinds at the Hayloft
-  date: "2020-12-04"
-  location: The Hayloft Restaurant & Bar, 69 Tannen Weg, Helen, GA 30545
-  info_url: https://www.facebook.com/events/3479063372148226
-
-- name: Thomas Hinds Live at Cartecay Vineyards
-  date: "2020-12-06"
-  location: Cartecay Vineyards, 5704 Clear Creek Rd, Ellijay, GA 30536
-  info_url: https://www.facebook.com/events/464872177764708
-
 - name: Biker Night at Hangar 92 sponsored by Steelhorse Law
   date: "2020-12-17"
   location: Hangar 92 Bar & Grill, 2123 Fairburn Rd, Douglasville, GA 30135
