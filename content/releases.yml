@@ -1,3 +1,11 @@
+- title: Brighter Day
+  date: 2022-09-06
+  release_type: Single
+  image: "./images/brighterday.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/1V6QL9nVZVWrvM1rQSpzMC?si=0f260b8210864060
+
 - title: Luminous
   date: 2020-03-20
   release_type: Single
